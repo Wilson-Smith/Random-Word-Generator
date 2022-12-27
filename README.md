@@ -8,9 +8,12 @@ I don't know why are you here, but thanks for been here. :D
 
 Reurning on the project, the code is simple and is created by a ooga booga cave man brain, so isn't the best, but do his work.
 
-It will generate a random word, so if you are with your friends, you can use this project for a simple game.
+It will generate a **random** word, so if you are with your friends, you can use this project for a _simple_ game.
 
-The game is you have to pronounce it, spell it and then tell the meaning of the word.
+_There are 4 steps_:
++ you have to pronounce the generated word
++ spell it
++ tell the meaning of it.
 
 I suggest to play this game when you're drunk (or with really easy-laught friends).
 
@@ -18,7 +21,7 @@ It is user-friendly and drunk-friendly. (There is only one button...)
 
 The design is crap, because I'm lazy.
 
-And remember: "Stay in School, Smoke Crack, Drink Responsibly, Bye!"
+And remember: **"Stay in School, Smoke Crack, Drink Responsibly, Bye!"**
 
 
 
